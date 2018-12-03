@@ -1,0 +1,5 @@
+SQLAlchemy==1.2.14
+Flask==1.0.2
+Flask-SQLAlchemy==2.3.2
+psycopg2==2.7.6.1
+jsonpickle == 1.0
