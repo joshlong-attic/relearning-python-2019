@@ -1,0 +1,3 @@
+[run]
+source = bonjour_pyramid
+omit = bonjour_pyramid/test*
